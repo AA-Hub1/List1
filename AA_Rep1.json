@@ -1,9 +1,6 @@
-[
 {
-    "title": "AA",
-    "type": 1,
-    "description": "This is a Express package",
-    "repositoryUrl": "https://github.com/JonathanAkaJD/ACID-ScraperZ/",
-    "packageUrl": "https://raw.githubusercontent.com/JonathanAkaJD/ACID-ScraperZ/Syncler/Express/TVMovie-Providers.json"
-  },
-]
+	[install-package 1
+		https://raw.githubusercontent.com/lalitjoshi06/Scrapers/main/en_Torrent/animetosho.json	
+			
+	]
+}
